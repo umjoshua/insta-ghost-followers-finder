@@ -8,4 +8,5 @@ Lightweight script to find ghost follwers in instagram.
 - right click on the request -> Copy value -> Copy request headers
 - Remove the Accept-Encoding header
 - paste the rest of headers as value for the `headers` variable.
+- run the script with `go run .`
 - Output will be written to the file `output.txt`
